@@ -54,3 +54,4 @@ _**Note:** Academic paper can be purchased following the respective link, but it
 1. ISO 14971 - Risk management for medical devices
 1. ISO/PAS 21448:2019 - Road Vehicles – Safety of the intended functionality (SOTIF)
 1. [ISO 26262 - Road vehicles – Functional safety](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en)
+1. [UL 1998 - Software in Programmable Components](https://standardscatalog.ul.com/standards/en/standard_1998_3)
