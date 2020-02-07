@@ -10,6 +10,7 @@ This documentation part provides further reading related to **E**nabling **L**in
 1. [DevOps meets formal modelling in high-criticality complex systems](https://dl.acm.org/citation.cfm?id=2804373)
 1. [DevOPs](https://www.computer.org/csdl/api/v1/periodical/mags/so/2016/03/mso2016030094/13rRUNvyary/download-article/pdf?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJjc2RsX2FwaSIsImF1ZCI6ImNzZGxfYXBpX2Rvd25sb2FkX3Rva2VuIiwic3ViIjoiYW5vbnltb3VzQGNvbXB1dGVyLm9yZyIsImVtYWlsIjoiYW5vbnltb3VzQGNvbXB1dGVyLm9yZyIsImV4cCI6MTU2Mjc5MzIyM30.QmjF55IjFDXMCrb90PdWi95meOvgrUw3xlZka76_8U8
 )
+1. [A Thread Synchronization Model for the PREEMPT RT Linux Kernel](https://bristot.me/a-thread-synchronization-model-for-the-preempt-rt-linux-kernel/)
 
 _**Note:** Academic paper can be purchased following the respective link, but it is always worth to contact the author of the publication, to ask if the document can be provided._
 
@@ -17,6 +18,9 @@ _**Note:** Academic paper can be purchased following the respective link, but it
 1. [“Certifying Linux: Lessons Learned in Three Years of SIL2LinuxMP”, Platschek, McGuire and Bulwahn, Embedded World, 2018](https://www.bmw-carit.com/downloads/publications/EWC2018_Certifying-Linux-Lessons-Learned.pdf)
 1. [Automotive and Mobility Industry Leaders Publish First-of-its-Kind Framework for Safe Automated Driving Systems](https://newsroom.intel.com/wp-content/uploads/sites/11/2019/07/Intel-Safety-First-for-Automated-Driving.pdf)
 1. [SAFETY FIRST FOR AUTOMATED DRIVING](https://newsroom.intel.com/wp-content/uploads/sites/11/2019/07/Intel-Safety-First-for-Automated-Driving.pdf)
+1. [The magical fantasy land of Linux kernel testing, Russell Currey, linux.conf.au 2020](https://linux.conf.au/schedule/presentation/106/)
+1. [Kernel regression tracking, part 1, Jonathan Corbet, 2017 Kernel summit](https://lwn.net/Articles/737666/)
+1. [Kernel regression tracking, part 2, Jonathan Corbet, 2017 Maintainers summit](https://lwn.net/Articles/738216/)
 
 ### Books
 1. [SafeScrum® – Agile Development of Safety-Critical Software](https://www.springer.com/gp/book/9783319993331)
